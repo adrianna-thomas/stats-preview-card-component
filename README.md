@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-flexbox-rkEwRsd79)
 - Live Site URL: [GitHub Page](https://adrianna-thomas.github.io/stats-preview-card-component/)
 
 ## My process
