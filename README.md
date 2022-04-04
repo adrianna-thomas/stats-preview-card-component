@@ -110,8 +110,8 @@ Media query for mobile view.
 
 Inspiration from other solutions.
 
-[Dimmagerias] (https://www.codeply.com/p/diAM4m0JwD)
+[Dimmagerias](https://www.codeply.com/p/diAM4m0JwD)
 
-[Chaoo Charles] (https://www.youtube.com/watch?v=idvnWaZwfJQ&ab_channel=ChaooCharles)
+[Chaoo Charles](https://www.youtube.com/watch?v=idvnWaZwfJQ&ab_channel=ChaooCharles)
 
-[Celestial Viruoso] (https://github.com/CelestialVirtuoso/Stats-preview-card-component-)
+[Celestial Viruoso](https://github.com/CelestialVirtuoso/Stats-preview-card-component-)
