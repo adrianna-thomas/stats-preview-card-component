@@ -29,7 +29,7 @@ h1 {
   color: var(--white);
   font-weight: 700;
   text-align: left;
-  font-size: 2rem;
+  font-size:1.75rem;
   margin: 2rem;
   padding-right: 10%;
 }
@@ -38,7 +38,7 @@ h1 {
 }
 .info {
   color: var(--main-p);
-  margin: 3rem 5rem 1.5rem 2rem;
+  margin: 2rem 5rem 1.5rem 2rem;
   line-height: 1.5;
 }
 .stat {
@@ -81,7 +81,7 @@ h1 {
 .stats-container {
   display: flex;
   justify-content: space-between;
-  margin: 4rem 5rem 1.5rem 2rem;
+  margin: 2rem 2rem;
 }
 
 .card-image {
@@ -102,12 +102,24 @@ h1 {
   
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--white);
+  position: absolute;
+  top: 98%;
+  left: 50%;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 @media only screen and (max-width: 375px) {
  
   .card {
     display: flex;
     flex-direction: column-reverse;
-    
   }
   
   .card-image {
@@ -119,16 +131,15 @@ h1 {
   .container {
     width: 325px;
     height: 600px;
-  
   }
   
   .text-container {
     min-width: 100%;
   }
+  
   h1, .info {
     margin: 1.5rem;
     text-align: center;
-    
   }
  
   .stats-container {
@@ -146,15 +157,4 @@ h1 {
     margin-top: 5px;
     margin-bottom: 20px;
   }
-}
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  color: var(--white);
-  position: absolute;
-  top: 98%;
-  left: 50%;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
