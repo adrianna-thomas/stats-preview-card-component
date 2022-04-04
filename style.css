@@ -75,7 +75,6 @@ h1 {
   border-radius: 3%;
   justify-content: center;
   align-items: center;
-  
 
 }
 
@@ -104,20 +103,23 @@ h1 {
 }
 
 @media only screen and (max-width: 375px) {
-  * {
-    
-  }
-  
-  .container {
-   width: 325px;
-   height: 600px;
-   
-   
- }
+ 
   .card {
     display: flex;
     flex-direction: column-reverse;
     
+  }
+  
+  .card-image {
+    background: url(/images/image-header-mobile.jpg);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .container {
+    width: 325px;
+    height: 600px;
+  
   }
   
   .text-container {
@@ -128,13 +130,7 @@ h1 {
     text-align: center;
     
   }
-  .card-image {
-   background: url(/images/image-header-mobile.jpg);
-   height: 100%;
-   background-size: cover;
-   background-repeat: no-repeat;
-  }
-  
+ 
   .stats-container {
     flex-direction: column;
     justify-content: space-between;
