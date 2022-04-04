@@ -123,7 +123,7 @@ h1 {
   }
   
   .card-image {
-    background: url(./images/image-header-mobile.jpg);
+    background: url(https://github.com/adrianna-thomas/stats-preview-card-component/blob/a305327cfe3ab7c5f3a7444f83a9a293f5fe23c6/images/image-header-mobile.jpg);
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
